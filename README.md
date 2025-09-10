@@ -1,5 +1,3 @@
-# checkpoint04-551442-99508
-
 # Classe User
 
 Esta classe representa a estrutura de um usuário e será utilizada para mapear os dados retornados do banco de dados MySQL e também os dados que serão serializados para o cache Redis.
